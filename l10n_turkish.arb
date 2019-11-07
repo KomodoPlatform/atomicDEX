@@ -520,7 +520,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "mediaBy": "Yazan:",
+  "mediaBy": "Yazar:",
   "@mediaBy": {
     "type": "text",
     "placeholders": {}
@@ -585,14 +585,14 @@
     "type": "text",
     "placeholders": {}
   },
-  "checkSeedPhraseSubtile": "Gizli kelimelerinizdeki {index} kelime nedir?",
+  "checkSeedPhraseSubtile": "Gizli kelimelerinizin {index}. kelimesi nedir?",
   "@checkSeedPhraseSubtile": {
     "type": "text",
     "placeholders": {
       "index": {}
     }
   },
-  "checkSeedPhraseHint": "{index} kelimeyi girin.",
+  "checkSeedPhraseHint": "{index}. kelimeyi girin.",
   "@checkSeedPhraseHint": {
     "type": "text",
     "placeholders": {
@@ -654,7 +654,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "hintNameYourWallet": "Cüzdanınızın adı",
+  "hintNameYourWallet": "Cüzdanınızı adlandırın",
   "@hintNameYourWallet": {
     "type": "text",
     "placeholders": {}
@@ -714,12 +714,12 @@
     "type": "text",
     "placeholders": {}
   },
-  "logoutsettings": "Ayarlardan Çık",
+  "logoutsettings": "Çıkış Ayarları",
   "@logoutsettings": {
     "type": "text",
     "placeholders": {}
   },
-  "logoutOnExit": "Çıkış Yap",
+  "logoutOnExit": "Kapanışta Çıkış Yap",
   "@logoutOnExit": {
     "type": "text",
     "placeholders": {}
@@ -734,12 +734,12 @@
     "type": "text",
     "placeholders": {}
   },
-  "settingDialogSpan1": "Cüzdanı silmek istediğinizden ",
+  "settingDialogSpan1": "",
   "@settingDialogSpan1": {
     "type": "text",
     "placeholders": {}
   },
-  "settingDialogSpan2": " emin misiniz?",
+  "settingDialogSpan2": " cüzdanını silmek istediğinizden emin misiniz?",
   "@settingDialogSpan2": {
     "type": "text",
     "placeholders": {}
@@ -749,7 +749,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "settingDialogSpan4": " gelecekte cüzdanınızı restore edebilmeniz için",
+  "settingDialogSpan4": " daha sonra cüzdanınızı kurtarabilmeniz için",
   "@settingDialogSpan4": {
     "type": "text",
     "placeholders": {}
@@ -779,7 +779,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "welcomeTitle": "HOŞGELDİN",
+  "welcomeTitle": "HOŞ GELDİN",
   "@welcomeTitle": {
     "type": "text",
     "placeholders": {}
