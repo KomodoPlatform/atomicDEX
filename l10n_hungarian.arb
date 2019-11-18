@@ -37,12 +37,12 @@
     "type": "text",
     "placeholders": {}
   },
-  "addCoin": "Aktív coin",
+  "addCoin": "Aktív érme",
   "@addCoin": {
     "type": "text",
     "placeholders": {}
   },
-  "numberAssets": "{assets} Aktíva",
+  "numberAssets": "{assets} Aktív",
   "@numberAssets": {
     "type": "text",
     "placeholders": {
@@ -135,7 +135,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "recommendSeedMessage": "Azt ajáljuk offline tárolja.",
+  "recommendSeedMessage": "Azt ajánljuk offline tárolja.",
   "@recommendSeedMessage": {
     "type": "text",
     "placeholders": {}
@@ -255,7 +255,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "placeOrder": "Adja meg a megrendelést",
+  "placeOrder": "Rendelés leadása",
   "@placeOrder": {
     "type": "text",
     "placeholders": {}
@@ -300,12 +300,12 @@
     "type": "text",
     "placeholders": {}
   },
-  "errorNotAValidAddress": "Nem valós cím",
+  "errorNotAValidAddress": "Hiba! Helytelen / nem valós cím!",
   "@errorNotAValidAddress": {
     "type": "text",
     "placeholders": {}
   },
-  "toAddress": "Címre:",
+  "toAddress": "Címzett:",
   "@toAddress": {
     "type": "text",
     "placeholders": {}
@@ -330,7 +330,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "commingsoon": "TX részletek hamarosan!",
+  "commingsoon": "Tranzakció részletek hamarosan!",
   "@commingsoon": {
     "type": "text",
     "placeholders": {}
@@ -375,7 +375,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "errorTryLater": "Hiba, kérjük próbálja újrar",
+  "errorTryLater": "Hiba, kérjük próbálja újra",
   "@errorTryLater": {
     "type": "text",
     "placeholders": {}
@@ -390,7 +390,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "claim": "claim",
+  "claim": "Igényel",
   "@claim": {
     "type": "text",
     "placeholders": {}
@@ -440,12 +440,12 @@
     "type": "text",
     "placeholders": {}
   },
-  "from": "From",
+  "from": "Honnan",
   "@from": {
     "type": "text",
     "placeholders": {}
   },
-  "to": "To",
+  "to": "Hova",
   "@to": {
     "type": "text",
     "placeholders": {}
@@ -540,7 +540,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "selectCoinTitle": "Activate coins:",
+  "selectCoinTitle": "Érme aktiválás:",
   "@selectCoinTitle": {
     "type": "text",
     "placeholders": {}
@@ -555,7 +555,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "infoTrade1": "A csere kérést nem lehet visszavonni és ez záró esemény!",
+  "infoTrade1": "A megkezdett cserét visszavonni nem lehet, ez végleges!",
   "@infoTrade1": {
     "type": "text",
     "placeholders": {}
@@ -565,12 +565,12 @@
     "type": "text",
     "placeholders": {}
   },
-  "swapDetailTitle": "CONFIRM EXCHANGE DETAILS",
+  "swapDetailTitle": "Erősitse meg a csere részleteit",
   "@swapDetailTitle": {
     "type": "text",
     "placeholders": {}
   },
-  "checkSeedPhrase": "Check seed phrase",
+  "checkSeedPhrase": "ellenőrizze a SEED-jét",
   "@checkSeedPhrase": {
     "type": "text",
     "placeholders": {}
