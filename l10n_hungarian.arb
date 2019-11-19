@@ -360,7 +360,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "swapSucceful": "Csere sikeres,
+  "swapSucceful": "Csere sikeres",
   "@swapSucceful": {
     "type": "text",
     "placeholders": {}
@@ -619,7 +619,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "activateAccessBiometric": "Biometrikus védelem aktiválása,
+  "activateAccessBiometric": "Biometrikus védelem aktiválása",
   "@activateAccessBiometric": {
     "type": "text",
     "placeholders": {}
@@ -921,7 +921,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "accepttac": "Fogadja el a feltételeket és a kondíciókat,
+  "accepttac": "Fogadja el a feltételeket és a kondíciókat",
   "@accepttac": {
     "type": "text",
     "placeholders": {}
