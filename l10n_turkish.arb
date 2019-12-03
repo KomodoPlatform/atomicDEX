@@ -42,14 +42,14 @@
     "type": "text",
     "placeholders": {}
   },
-  "numberAssets": "{assets} Varlıklar",
+  "numberAssets": "{assets} Adet Varlık Mevcut",
   "@numberAssets": {
     "type": "text",
     "placeholders": {
       "assets": {}
     }
   },
-  "enterSeedPhrase": "Gizli Kelimelerinizi Girin",
+  "enterSeedPhrase": "Anahtar Kelimelerinizi Girin",
   "@enterSeedPhrase": {
     "type": "text",
     "placeholders": {}
@@ -102,7 +102,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "withdrawValue": "{amount} adet {coinName} ÇEK",
+  "withdrawValue": "{amount} ADET {coinName} ÇEK",
   "@withdrawValue": {
     "type": "text",
     "placeholders": {
@@ -120,17 +120,17 @@
     "type": "text",
     "placeholders": {}
   },
-  "confirmSeed": "Gizli Kelimeleri Onayla",
+  "confirmSeed": "Anahtar Kelimeleri Onayla",
   "@confirmSeed": {
     "type": "text",
     "placeholders": {}
   },
-  "seedPhraseTitle": "Yeni Gizli Kelimeleriniz",
+  "seedPhraseTitle": "Yeni Anahtar Kelimeleriniz",
   "@seedPhraseTitle": {
     "type": "text",
     "placeholders": {}
   },
-  "getBackupPhrase": "Önemli: Devam etmeden önce gizli kelimelerinizi güvenli bir şekilde yedekleyin!",
+  "getBackupPhrase": "Önemli: Devam etmeden önce anahtar kelimelerinizi güvenli bir şekilde yedekleyin!",
   "@getBackupPhrase": {
     "type": "text",
     "placeholders": {}
@@ -200,12 +200,12 @@
     "type": "text",
     "placeholders": {}
   },
-  "selectCoinToSell": "SATMAK istediğiniz kriptoparayı seçin",
+  "selectCoinToSell": "SATMAK istediğiniz parayı seçin",
   "@selectCoinToSell": {
     "type": "text",
     "placeholders": {}
   },
-  "selectCoinToBuy": "ALMAK istediğiniz kriptoparayı seçin",
+  "selectCoinToBuy": "ALMAK istediğiniz parayı seçin",
   "@selectCoinToBuy": {
     "type": "text",
     "placeholders": {}
@@ -370,7 +370,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "swapFailed": "Takas Başarısız",
+  "swapFailed": "Başarısız Takas",
   "@swapFailed": {
     "type": "text",
     "placeholders": {}
@@ -475,7 +475,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "trade": "ALIM SATIM",
+  "trade": "TAKAS",
   "@trade": {
     "type": "text",
     "placeholders": {}
@@ -490,12 +490,12 @@
     "type": "text",
     "placeholders": {}
   },
-  "tradeDetail": "ALIM SATIM DETAYLARI",
+  "tradeDetail": "TAKAS DETAYLARI",
   "@tradeDetail": {
     "type": "text",
     "placeholders": {}
   },
-  "requestedTrade": "Talep Edilen Alım Satım",
+  "requestedTrade": "Talep Edilen Takas",
   "@requestedTrade": {
     "type": "text",
     "placeholders": {}
@@ -515,7 +515,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "mediaNotSavedDescription": "KAYDEDİLMİŞ BİR MAKALENİZ YOK",
+  "mediaNotSavedDescription": "KAYDEDİLMİŞ BİR YAZI YOK",
   "@mediaNotSavedDescription": {
     "type": "text",
     "placeholders": {}
@@ -535,17 +535,17 @@
     "type": "text",
     "placeholders": {}
   },
-  "done": "Bitti",
+  "done": "Tamam",
   "@done": {
     "type": "text",
     "placeholders": {}
   },
-  "selectCoinTitle": "Kriptopara etkinleştir:",
+  "selectCoinTitle": "Paraları etkinleştir:",
   "@selectCoinTitle": {
     "type": "text",
     "placeholders": {}
   },
-  "selectCoinInfo": "Portföyünüze eklemek istediğiniz kriptoparaları seçin.",
+  "selectCoinInfo": "Portföyünüze eklemek istediğiniz paraları seçin.",
   "@selectCoinInfo": {
     "type": "text",
     "placeholders": {}
@@ -570,22 +570,22 @@
     "type": "text",
     "placeholders": {}
   },
-  "checkSeedPhrase": "Gizli kelimeleri kontrol edin",
+  "checkSeedPhrase": "Anahtar kelimeleri kontrol edin",
   "@checkSeedPhrase": {
     "type": "text",
     "placeholders": {}
   },
-  "checkSeedPhraseTitle": "GİZLİ KELİMELERİNİZİ DAHA DİKKATLİ KONTROL EDİN",
+  "checkSeedPhraseTitle": "ANAHTAR KELİMELERİNİZİ DAHA DİKKATLİ KONTROL EDİN",
   "@checkSeedPhraseTitle": {
     "type": "text",
     "placeholders": {}
   },
-  "checkSeedPhraseInfo": "Gizli kelimeleriniz önemlidir - bu yüzden doğruluğundan emin olmak istiyoruz. Cüzdanınızı istediğiniz zaman kolayca geri yükleyebileceğinizden emin olmak için, gizli kelimeleriniz hakkında üç farklı soru soracağız.",
+  "checkSeedPhraseInfo": "Anahtar kelimeleriniz önemlidir - bu yüzden doğruluğundan emin olmak istiyoruz. Cüzdanınızı istediğiniz zaman kolayca geri yükleyebileceğinizden emin olmak için, anahtar kelimeleriniz hakkında üç farklı soru soracağız.",
   "@checkSeedPhraseInfo": {
     "type": "text",
     "placeholders": {}
   },
-  "checkSeedPhraseSubtile": "Gizli kelimelerinizin {index}. kelimesi nedir?",
+  "checkSeedPhraseSubtile": "Anahtar kelime öbeğinizin {index}. kelimesi nedir?",
   "@checkSeedPhraseSubtile": {
     "type": "text",
     "placeholders": {
@@ -624,7 +624,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "allowCustomSeed": "Kişisel kelimeleri kullan",
+  "allowCustomSeed": "Özel anahtar kelimeleri kullan",
   "@allowCustomSeed": {
     "type": "text",
     "placeholders": {}
@@ -634,7 +634,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "signInWithSeedPhrase": "Gizli kelimelerle giriş yap",
+  "signInWithSeedPhrase": "Anahtar kelimelerle giriş yap",
   "@signInWithSeedPhrase": {
     "type": "text",
     "placeholders": {}
@@ -644,7 +644,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "hintEnterSeedPhrase": "Gizli kelimelerinizi girin",
+  "hintEnterSeedPhrase": "Anahtar kelimelerinizi girin",
   "@hintEnterSeedPhrase": {
     "type": "text",
     "placeholders": {}
@@ -659,7 +659,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "infoWalletPassword": "Cüzdanınızın güvenliğini parola ile sağlayabilirsiniz. Eğer parola kullanmazsanız, cüzdanınıza erişebilmek için her defasında gizli kelimelerinizi girmeniz gerekir.",
+  "infoWalletPassword": "Cüzdanınızın güvenliğini parola ile sağlayabilirsiniz. Eğer parola kullanmazsanız, cüzdanınıza erişebilmek için her seferinde anahtar kelimelerinizi girmeniz gerekir.",
   "@infoWalletPassword": {
     "type": "text",
     "placeholders": {}
@@ -679,7 +679,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "infoPasswordDialog": "Eğer bir parola kullanmazsanız, cüzdanınıza erişebilmek için her defasında gizli kelimelerinizi girmeniz gerekir.",
+  "infoPasswordDialog": "Eğer bir parola kullanmazsanız, cüzdanınıza erişebilmek için her seferinde anahtar kelimelerinizi girmeniz gerekir.",
   "@infoPasswordDialog": {
     "type": "text",
     "placeholders": {}
@@ -694,7 +694,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "restoreWallet": "RESTORE ET",
+  "restoreWallet": "KURTAR",
   "@restoreWallet": {
     "type": "text",
     "placeholders": {}
@@ -754,7 +754,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "settingDialogSpan5": " gizli kelimelerinizi kaydedin.",
+  "settingDialogSpan5": " anahtar kelimelerinizi kaydedin.",
   "@settingDialogSpan5": {
     "type": "text",
     "placeholders": {}
@@ -764,7 +764,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "viewSeed": "Kelimeleri Görüntüle",
+  "viewSeed": "Anahtar Kelimeleri Görüntüle",
   "@viewSeed": {
     "type": "text",
     "placeholders": {}
@@ -794,7 +794,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "welcomeInfo": "AtomicDEX mobil yerleşik üçüncü nesil DEX işlevselliği ve daha fazla özellikleri ile yeni nesil bir çoklu-kriptopara cüzdanıdır.",
+  "welcomeInfo": "AtomicDEX mobil yerleşik üçüncü nesil DEX işlevselliği ve daha fazla özellikleri ile yeni nesil bir çoklu-para cüzdanıdır.",
   "@welcomeInfo": {
     "type": "text",
     "placeholders": {}
@@ -841,7 +841,7 @@
     "type": "text",
     "placeholders": {}
   },
-  "selectCoin": "Kriptopara seçin",
+  "selectCoin": "Para seçin",
   "@selectCoin": {
     "type": "text",
     "placeholders": {}
